@@ -76,4 +76,7 @@ p {
   .blog-info{
   margin: 0;
 }
+.container{
+  min-width: 322px;
+}
 }

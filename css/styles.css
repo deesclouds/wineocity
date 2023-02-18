@@ -67,7 +67,9 @@ h1 {
   justify-content: space-between;
   background: var(--header-color);
   padding: 0 1em 0 1em;
-  min-width: 100%;
+}
+h2, .header-container{
+  min-width: 320px;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
@@ -145,6 +147,7 @@ a {
   }
   header {
     min-height: 2em;
+    min-width: 320px;
   }
   h1 {
     font-size: 1em;
@@ -158,6 +161,7 @@ a {
   }
   footer {
     padding: 0.5em 0 0 0;
+    min-width: 320px;
     position: sticky;
   }
 }
