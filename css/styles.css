@@ -157,7 +157,7 @@ a {
     font-size: 4em;
   }
   footer {
-    padding: 0;
+    padding: 0.5em 0 0 0;
     position: sticky;
   }
 }
